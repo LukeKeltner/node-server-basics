@@ -1,0 +1,19 @@
+{
+  "name": "node-server-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bothServers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeKeltner/node-server-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeKeltner/node-server-basics/issues"
+  },
+  "homepage": "https://github.com/LukeKeltner/node-server-basics#readme"
+}
