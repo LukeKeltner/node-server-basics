@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LukeKeltner/node-server-basics/issues"
   },
-  "homepage": "https://github.com/LukeKeltner/node-server-basics#readme"
+  "homepage": "https://github.com/LukeKeltner/node-server-basics#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
